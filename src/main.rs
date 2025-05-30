@@ -5,7 +5,7 @@ mod GravLib;
 
 use vexide::prelude::*;
 use crate::GravLib::actuator;
-use crate::GravLib::PID;
+use crate::GravLib::pid;
 
 struct Robot {}
 
